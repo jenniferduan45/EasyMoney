@@ -4,6 +4,8 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=easymoney&metric=bugs)](https://sonarcloud.io/summary/overall?id=easymoney)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=easymoney&metric=code_smells)](https://sonarcloud.io/project/issues?resolved=false&types=CODE_SMELL&id=easymoney)
 
+EasyMoney is a service providing authentication-enabled APIs for personal, business, and financial users to make money transfers & money requests and view analytical summary & friend feed.
+
 ## Team members
 
 Junhao Lin, Ruize Li, Ken Xiong, Jennifer Duan
